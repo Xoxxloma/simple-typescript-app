@@ -1,12 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Typescript
 
-## Available Scripts
+## This project do nothing
 
-In the project directory, you can run:
+You can check it out here [KekTimer](kektimer.surge.sh)
 
-### `npm start`
+## `npm i`
+to install all dependencies
+then
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-hello world
+### `npm run kek`
